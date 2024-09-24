@@ -13,7 +13,7 @@
 ## 技术栈
 - **前端**: 使用 [Vue.js](https://vuejs.org/) 构建的响应式用户界面。
 - **后端**: 基于 [Go](https://golang.org/) 开发的 RESTful API，使用 [Gin](https://gin-gonic.com/) 框架。
-- **数据库**: 使用 [Postgres](https://www.postgres.com/) 作为主数据库，管理用户、考试及大学等相关信息。
+- **数据库**: 使用 [Postgres](https://www.postgres.org/) 作为主数据库，管理用户、考试及大学等相关信息。
 - **日志系统**: 使用 [Zap](https://github.com/uber-go/zap) 结合 [Lumberjack](https://github.com/natefinch/lumberjack) 实现高效的日志记录与管理。
 
 ## 项目结构
