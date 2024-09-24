@@ -18,7 +18,7 @@
 
 ## 项目结构
 ```plaintext
-my-gin-project/
+ShushiNaritai/
 ├── cmd/               # 项目入口
 ├── config/            # 配置文件
 ├── controllers/       # 控制器层，处理用户请求
